@@ -7,7 +7,7 @@ We have used Autoencoders for the stitching process along with basic CV2 librari
 
 CARLA - https://carla.org/
 
-![Dataset Images](https://github.com/VKG5/Image-Stitching-AE/tree/main/Images/Carla.JPG) 
+![](https://github.com/VKG5/Image-Stitching-AE/tree/main/Images/Carla.JPG) 
 
 This is just a glimpse of the total dataset that includes **15k-16k images per camera** from a video recorded at native **1080p at 30 frames per second.**
 
